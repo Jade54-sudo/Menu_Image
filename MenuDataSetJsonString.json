@@ -164,7 +164,7 @@
     },
     {
       "category_id": 2,
-      "category_name": "desert",
+      "category_name": "dessert",
       "products": [
         {
           "product_id": 201,
@@ -382,4 +382,5 @@
       ]
     }
   ]
+
 }
