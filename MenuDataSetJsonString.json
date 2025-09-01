@@ -14,6 +14,7 @@
           "options": [
             {
               "category": "드레싱 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10101, "name": "시저 드레싱", "price": 0 },
                 { "id": 10102, "name": "발사믹 드레싱", "price": 0 },
@@ -22,6 +23,7 @@
             },
             {
               "category": "토핑 추가",
+              "selection_restriction": 2,
               "items": [
                 { "id": 10104, "name": "닭가슴살", "price": 1000 },
                 { "id": 10105, "name": "계란" , "price": 1000 },
@@ -40,6 +42,7 @@
           "options": [
             {
               "category": "빵 종류",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10201, "name": "호밀빵", "price": 1000 },
                 { "id": 10202, "name": "화이트빵", "price": 1000 },
@@ -48,6 +51,7 @@
             },
             {
               "category": "소스 추가",
+              "selection_restriction": 2,
               "items": [
                 { "id": 10204, "name": "마요네즈", "price": 0 },
                 { "id": 10205, "name": "머스타드", "price": 0 },
@@ -66,6 +70,7 @@
           "options": [
             {
               "category": "도우 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10301, "name": "씬 도우", "price": 1000 },
                 { "id": 10302, "name": "오리지널", "price": 0 },
@@ -74,6 +79,7 @@
             },
             {
               "category": "토핑 추가",
+              "selection_restriction": 2,
               "items": [
                 { "id": 10304, "name": "페퍼로니", "price": 1000 },
                 { "id": 10305, "name": "파인애플", "price": 1000 },
@@ -92,6 +98,7 @@
           "options": [
             {
               "category": "사이드 추가",
+              "selection_restriction": 2,
               "items": [
                 { "id": 10401, "name": "감자튀김", "price": 1000 },
                 { "id": 10402, "name": "샐러드", "price": 1000 },
@@ -100,6 +107,7 @@
             },
             {
               "category": "음료 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10404, "name": "콜라", "price": 1000 },
                 { "id": 10405, "name": "사이다", "price": 1000 },
@@ -118,6 +126,7 @@
           "options": [
             {
               "category": "면 종류",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10501, "name": "스파게티", "price": 1000 },
                 { "id": 10502, "name": "페투치니", "price": 1000 },
@@ -126,6 +135,7 @@
             },
             {
               "category": "치즈 추가",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10504, "name": "파마산 치즈", "price": 1000 },
                 { "id": 10505, "name": "모짜렐라 치즈", "price": 1000 },
@@ -144,6 +154,7 @@
           "options": [
             {
               "category": "굽기 정도",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10601, "name": "레어", "price": 0 },
                 { "id": 10602, "name": "미디엄", "price": 0 },
@@ -152,6 +163,7 @@
             },
             {
               "category": "소스 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 10604, "name": "데미글라스", "price": 1000 },
                 { "id": 10605, "name": "머쉬룸 소스", "price": 1000 },
@@ -176,6 +188,7 @@
           "options": [
             {
               "category": "맛 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 20101, "name": "초콜릿", "price": 0 },
                 { "id": 20102, "name": "치즈", "price": 0 },
@@ -194,6 +207,7 @@
           "options": [
             {
               "category": "맛 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 20201, "name": "애플", "price": 0 },
                 { "id": 20202, "name": "호박", "price": 0 },
@@ -212,6 +226,7 @@
           "options": [
             {
               "category": "맛 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 20301, "name": "라즈베리", "price": 0 },
                 { "id": 20302, "name": "레몬", "price": 0 },
@@ -230,6 +245,7 @@
           "options": [
             {
               "category": "맛 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 20401, "name": "바닐라", "price": 0 },
                 { "id": 20402, "name": "초코", "price": 0 },
@@ -238,6 +254,7 @@
             },
             {
               "category": "토핑 추가",
+              "selection_restriction": 2,
               "items": [
                 { "id": 20404, "name": "초콜릿 칩", "price": 1000 },
                 { "id": 20405, "name": "견과류", "price": 1000 },
@@ -262,6 +279,7 @@
           "options": [
             {
               "category": "온도 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30101, "name": "ICE", "price": 0 },
                 { "id": 30102, "name": "HOT", "price": 0 }
@@ -269,6 +287,7 @@
             },
             {
               "category": "샷 추가",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30103, "name": "샷 추가 안 함", "price": 0 },
                 { "id": 30104, "name": "샷 1개 추가", "price": 500 },
@@ -287,6 +306,7 @@
           "options": [
             {
               "category": "우유 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30201, "name": "일반 우유", "price": 0 },
                 { "id": 30202, "name": "두유", "price": 1000 },
@@ -295,6 +315,7 @@
             },
             {
               "category": "시나몬 파우더",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30204, "name": "추가", "price": 1000 },
                 { "id": 30205, "name": "추가 안 함", "price": 0 }
@@ -312,6 +333,7 @@
           "options": [
             {
               "category": "맛 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30301, "name": "바닐라", "price": 0 },
                 { "id": 30302, "name": "카라멜", "price": 0 },
@@ -320,6 +342,7 @@
             },
             {
               "category": "우유 온도",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30304, "name": "뜨겁게", "price": 0 },
                 { "id": 30305, "name": "미온", "price": 0 },
@@ -338,6 +361,7 @@
           "options": [
             {
               "category": "과일 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30401, "name": "딸기", "price": 0 },
                 { "id": 30402, "name": "망고", "price": 0 },
@@ -346,6 +370,7 @@
             },
             {
               "category": "당도 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30404, "name": "0%", "price": 0 },
                 { "id": 30405, "name": "50%", "price": 0 },
@@ -364,6 +389,7 @@
           "options": [
             {
               "category": "착즙 선택",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30501, "name": "오렌지", "price": 0 },
                 { "id": 30502, "name": "자몽", "price": 0 },
@@ -372,6 +398,7 @@
             },
             {
               "category": "얼음 여부",
+              "selection_restriction": 1,
               "items": [
                 { "id": 30504, "name": "얼음 있음", "price": 0 },
                 { "id": 30505, "name": "얼음 없음", "price": 0 }
@@ -384,3 +411,4 @@
   ]
 
 }
+
